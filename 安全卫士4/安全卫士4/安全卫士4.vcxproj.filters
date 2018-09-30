@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="安全卫士4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="安全卫士4Dlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyTableCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab_Process1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab_NeiCun2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab_LaJi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab_FuWu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab_ShaDu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab_YunSha.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab_Pe.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Tab_FuJia.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyListCtrl.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="QuDuanTouBiao.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MY_List_QuDuan.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Pe_DaoChu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Pe_DaoChuBiao_List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Pe_DaoRu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PE_ZY_Dlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PE_ZY_LIST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PE_ChongDingWei.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PE_CDW_LIST_UP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PE_CDW_Down_List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PE_TLS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PE_YanChi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Procces_Thread.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Process_Thread_List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Process_MoKuai.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Process_MoKuai_List.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Process_ChuangKou.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Process_CK_LIST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PE_TLS_LIST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PE_YANCHI_LIST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="WIN_FUWU_LIST.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="md5.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TiaoShi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="安全卫士4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="安全卫士4Dlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyTableCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_Process1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_NeiCun2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_LaJi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_FuWu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_ShaDu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_YunSha.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_Pe.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Tab_FuJia.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyListCtrl.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="QuDuanTouBiao.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MY_List_QuDuan.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Pe_DaoChu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Pe_DaoChuBiao_List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Pe_DaoRu.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PE_ZY_Dlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PE_ZY_LIST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PE_ChongDingWei.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PE_CDW_LIST_UP.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PE_CDW_Down_List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PE_TLS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PE_YanChi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Procces_Thread.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Process_Thread_List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Process_MoKuai.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Process_MoKuai_List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Process_ChuangKou.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Process_CK_LIST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PE_TLS_LIST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PE_YANCHI_LIST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="WIN_FUWU_LIST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TiaoShi.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="安全卫士4.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\My4.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\安全卫士4.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

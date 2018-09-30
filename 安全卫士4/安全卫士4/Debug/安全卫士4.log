@@ -1,0 +1,108 @@
+﻿生成启动时间为 2018/9/30 21:38:08。
+     1>项目“C:\Users\admin\Desktop\Text\安全卫士4\安全卫士4\安全卫士4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\安全卫士4.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         D:\Program Files\vs2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\安全卫士4.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MyListCtrl.cpp MyTableCtrl.cpp MY_List_QuDuan.cpp PE_CDW_Down_List.cpp PE_CDW_LIST_UP.cpp PE_ChongDingWei.cpp Pe_DaoChu.cpp Pe_DaoChuBiao_List.cpp Pe_DaoRu.cpp PE_TLS.cpp PE_TLS_LIST.cpp PE_YanChi.cpp PE_YANCHI_LIST.cpp PE_ZY_Dlg.cpp PE_ZY_LIST.cpp Procces_Thread.cpp Process_ChuangKou.cpp Process_CK_LIST.cpp Process_MoKuai.cpp Process_MoKuai_List.cpp Process_Thread_List.cpp QuDuanTouBiao.cpp Tab_FuJia.cpp Tab_FuWu.cpp Tab_LaJi.cpp Tab_NeiCun2.cpp Tab_Pe.cpp Tab_Process1.cpp Tab_ShaDu.cpp Tab_YunSha.cpp TiaoShi.cpp WIN_FUWU_LIST.cpp "安全卫士4.cpp" "安全卫士4Dlg.cpp"
+         安全卫士4Dlg.cpp
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\安全卫士4dlg.cpp(275): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+         安全卫士4.cpp
+         WIN_FUWU_LIST.cpp
+         TiaoShi.cpp
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tiaoshi.cpp(78): warning C4091: “typedef ”: 没有声明变量时忽略“DLLINFO”的左侧
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tiaoshi.cpp(266): warning C4172: 返回局部变量或临时变量的地址
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tiaoshi.cpp(414): warning C4244: “=”: 从“DWORD”转换到“WORD”，可能丢失数据
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tiaoshi.cpp(445): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tiaoshi.cpp(980): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tiaoshi.cpp(1020): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tiaoshi.cpp(1027): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vs2013\vc\include\stdio.h(283) : 参见“scanf”的声明
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tiaoshi.cpp(1070): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vs2013\vc\include\stdio.h(226) : 参见“freopen”的声明
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tiaoshi.cpp(1151): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\vs2013\vc\include\string.h(112) : 参见“strcpy”的声明
+         Tab_YunSha.cpp
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tab_yunsha.cpp(81): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+         Tab_ShaDu.cpp
+         Tab_Process1.cpp
+         Tab_Pe.cpp
+         Tab_NeiCun2.cpp
+         Tab_LaJi.cpp
+         Tab_FuWu.cpp
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\tab_fuwu.cpp(139): warning C4800: “BOOL”: 将值强制为布尔值“true”或“false”(性能警告)
+         Tab_FuJia.cpp
+         QuDuanTouBiao.cpp
+         Process_Thread_List.cpp
+         Process_MoKuai_List.cpp
+         Process_MoKuai.cpp
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\process_mokuai.cpp(157): warning C4018: “<”: 有符号/无符号不匹配
+         Process_CK_LIST.cpp
+         Process_ChuangKou.cpp
+         Procces_Thread.cpp
+         PE_ZY_LIST.cpp
+         正在生成代码...
+         正在编译...
+         PE_ZY_Dlg.cpp
+         PE_YANCHI_LIST.cpp
+         PE_YanChi.cpp
+         PE_TLS_LIST.cpp
+         PE_TLS.cpp
+         Pe_DaoRu.cpp
+         Pe_DaoChuBiao_List.cpp
+         Pe_DaoChu.cpp
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\pe_daochu.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+         PE_ChongDingWei.cpp
+     1>c:\users\admin\desktop\text\安全卫士4\安全卫士4\pe_chongdingwei.cpp(259): warning C4018: “<”: 有符号/无符号不匹配
+         PE_CDW_LIST_UP.cpp
+         PE_CDW_Down_List.cpp
+         MY_List_QuDuan.cpp
+         MyTableCtrl.cpp
+         MyListCtrl.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\安全卫士4.res" "安全卫士4.rc" 
+       Link:
+         D:\Program Files\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\admin\Desktop\Text\安全卫士4\Debug\安全卫士4.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\vs2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\admin\Desktop\Text\安全卫士4\Debug\安全卫士4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\admin\Desktop\Text\安全卫士4\Debug\安全卫士4.lib" /MACHINE:X86 "Debug\安全卫士4.res"
+         Debug\MyListCtrl.obj
+         Debug\MyTableCtrl.obj
+         Debug\MY_List_QuDuan.obj
+         Debug\PE_CDW_Down_List.obj
+         Debug\PE_CDW_LIST_UP.obj
+         Debug\PE_ChongDingWei.obj
+         Debug\Pe_DaoChu.obj
+         Debug\Pe_DaoChuBiao_List.obj
+         Debug\Pe_DaoRu.obj
+         Debug\PE_TLS.obj
+         Debug\PE_TLS_LIST.obj
+         Debug\PE_YanChi.obj
+         Debug\PE_YANCHI_LIST.obj
+         Debug\PE_ZY_Dlg.obj
+         Debug\PE_ZY_LIST.obj
+         Debug\Procces_Thread.obj
+         Debug\Process_ChuangKou.obj
+         Debug\Process_CK_LIST.obj
+         Debug\Process_MoKuai.obj
+         Debug\Process_MoKuai_List.obj
+         Debug\Process_Thread_List.obj
+         Debug\QuDuanTouBiao.obj
+         Debug\stdafx.obj
+         Debug\Tab_FuJia.obj
+         Debug\Tab_FuWu.obj
+         Debug\Tab_LaJi.obj
+         Debug\Tab_NeiCun2.obj
+         Debug\Tab_Pe.obj
+         Debug\Tab_Process1.obj
+         Debug\Tab_ShaDu.obj
+         Debug\Tab_YunSha.obj
+         Debug\TiaoShi.obj
+         Debug\WIN_FUWU_LIST.obj
+         "Debug\安全卫士4.obj"
+         "Debug\安全卫士4Dlg.obj"
+         安全卫士4.vcxproj -> C:\Users\admin\Desktop\Text\安全卫士4\Debug\安全卫士4.exe
+     1>已完成生成项目“C:\Users\admin\Desktop\Text\安全卫士4\安全卫士4\安全卫士4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.45

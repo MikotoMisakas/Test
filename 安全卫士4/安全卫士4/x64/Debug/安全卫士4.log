@@ -1,0 +1,46 @@
+﻿生成启动时间为 2018/8/12 13:31:15。
+     1>项目“D:\cx\安全卫士4\安全卫士4\安全卫士4.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /Ix64\Debug\ /nologo /fo"x64\Debug\安全卫士4.res" "安全卫士4.rc" 
+       Link:
+         D:\Program Files\vs2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cx\安全卫士4\x64\Debug\安全卫士4.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files\vs2013\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\cx\安全卫士4\x64\Debug\安全卫士4.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cx\安全卫士4\x64\Debug\安全卫士4.lib" /MACHINE:X64 "x64\Debug\安全卫士4.res"
+         x64\Debug\MyListCtrl.obj
+         x64\Debug\MyTableCtrl.obj
+         x64\Debug\MY_List_QuDuan.obj
+         x64\Debug\PE_CDW_Down_List.obj
+         x64\Debug\PE_CDW_LIST_UP.obj
+         x64\Debug\PE_ChongDingWei.obj
+         x64\Debug\Pe_DaoChu.obj
+         x64\Debug\Pe_DaoChuBiao_List.obj
+         x64\Debug\Pe_DaoRu.obj
+         x64\Debug\PE_TLS.obj
+         x64\Debug\PE_TLS_LIST.obj
+         x64\Debug\PE_YanChi.obj
+         x64\Debug\PE_YANCHI_LIST.obj
+         x64\Debug\PE_ZY_Dlg.obj
+         x64\Debug\PE_ZY_LIST.obj
+         x64\Debug\Procces_Thread.obj
+         x64\Debug\Process_ChuangKou.obj
+         x64\Debug\Process_CK_LIST.obj
+         x64\Debug\Process_MoKuai.obj
+         x64\Debug\Process_MoKuai_List.obj
+         x64\Debug\Process_Thread_List.obj
+         x64\Debug\QuDuanTouBiao.obj
+         x64\Debug\stdafx.obj
+         x64\Debug\Tab_FuJia.obj
+         x64\Debug\Tab_FuWu.obj
+         x64\Debug\Tab_LaJi.obj
+         x64\Debug\Tab_NeiCun2.obj
+         x64\Debug\Tab_Pe.obj
+         x64\Debug\Tab_Process1.obj
+         x64\Debug\Tab_ShaDu.obj
+         x64\Debug\Tab_YunSha.obj
+         x64\Debug\WIN_FUWU_LIST.obj
+         "x64\Debug\安全卫士4.obj"
+         "x64\Debug\安全卫士4Dlg.obj"
+         安全卫士4.vcxproj -> D:\cx\安全卫士4\x64\Debug\安全卫士4.exe
+     1>已完成生成项目“D:\cx\安全卫士4\安全卫士4\安全卫士4.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.60

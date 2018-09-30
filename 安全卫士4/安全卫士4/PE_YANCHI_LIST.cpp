@@ -1,0 +1,30 @@
+// PE_YANCHI_LIST.cpp : 实现文件
+//
+
+#include "stdafx.h"
+#include "安全卫士4.h"
+#include "PE_YANCHI_LIST.h"
+
+
+// PE_YANCHI_LIST
+
+IMPLEMENT_DYNAMIC(PE_YANCHI_LIST, CWnd)
+
+PE_YANCHI_LIST::PE_YANCHI_LIST()
+{
+
+}
+
+PE_YANCHI_LIST::~PE_YANCHI_LIST()
+{
+}
+
+
+BEGIN_MESSAGE_MAP(PE_YANCHI_LIST, CWnd)
+END_MESSAGE_MAP()
+
+
+
+// PE_YANCHI_LIST 消息处理程序
+
+
